@@ -43,3 +43,11 @@ width: 1000px;
 [class*="span"] {
 margin-left: 0px;
 }
+@media (max-width: 979px) and (min-width: 768px)
+.span12 {
+width: 1000px;
+}
+@media (max-width: 979px) and (min-width: 768px)
+[class*="span"] {
+margin-left: 0px;
+}
