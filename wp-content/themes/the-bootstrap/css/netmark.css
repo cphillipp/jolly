@@ -37,3 +37,9 @@ width: 1000px;
 [class*="span"] {
 margin-left: 0;
 }
+.span12 {
+width: 1000px;
+}
+[class*="span"] {
+margin-left: 0px;
+}
