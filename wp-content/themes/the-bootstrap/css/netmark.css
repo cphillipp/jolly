@@ -51,3 +51,10 @@ width: 1000px;
 [class*="span"] {
 margin-left: 0px;
 }
+@media (min-width: 1200px)
+.sidebar-content #primary, .sidebar-content #attachment-comment {
+margin-right: 0px;
+}
+.sidebar-content #primary, .sidebar-content #attachment-comment {
+margin: 0 0px 0 0;
+}
