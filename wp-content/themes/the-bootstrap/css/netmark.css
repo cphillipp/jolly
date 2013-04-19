@@ -12,18 +12,18 @@
 #page 		{margin:0; padding:0; background:transparent;}
 @media (min-width: 1200px)
 .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
-width: 1000px;
+width: 1080px;
 }
 .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
-width: 1000px;
+width: 1080px;
 }
 @media (max-width: 979px) and (min-width: 768px)
 .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
-width: 1000px;
+width: 1080px;
 }
 @media (max-width: 767px)
 .container {
-width: 1000px;
+width: 1080px;
 padding: 0;
 }
 body>.container {
