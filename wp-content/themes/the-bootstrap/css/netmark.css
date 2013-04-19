@@ -29,3 +29,11 @@ padding: 0;
 body>.container {
 margin: 0px auto;
 }
+@media (min-width: 1200px)
+.span12 {
+width: 1000px;
+}
+@media (min-width: 1200px)
+[class*="span"] {
+margin-left: 0;
+}
