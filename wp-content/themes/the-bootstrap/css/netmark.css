@@ -9,7 +9,7 @@
     font-style: normal;
 
 }
-#page 		{background:transparent;}
+#page 		{margin:0; padding:0; background:transparent;}
 @media (min-width: 1200px)
 .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
 width: 1000px;
