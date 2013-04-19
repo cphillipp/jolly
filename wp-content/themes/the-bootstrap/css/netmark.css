@@ -31,21 +31,21 @@ margin: 0px auto;
 }
 @media (min-width: 1200px)
 .span12 {
-width: 1000px;
+width: 1117px;
 }
 @media (min-width: 1200px)
 [class*="span"] {
 margin-left: 0;
 }
 .span12 {
-width: 1000px;
+width: 1117px;
 }
 [class*="span"] {
 margin-left: 0px;
 }
 @media (max-width: 979px) and (min-width: 768px)
 .span12 {
-width: 1000px;
+width: 1117px;
 }
 @media (max-width: 979px) and (min-width: 768px)
 [class*="span"] {
