@@ -16,7 +16,6 @@ width: 1000px;
 }
 .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
 width: 1000px;
-margin: 0 auto;
 }
 @media (max-width: 979px) and (min-width: 768px)
 .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
@@ -26,4 +25,7 @@ width: 1000px;
 .container {
 width: 1000px;
 padding: 0;
+}
+body>.container {
+margin: 0px auto;
 }
