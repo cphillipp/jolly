@@ -1,6 +1,6 @@
 global:
   env:
-    - PLATFORM: PAGODA
+    - PLATFORM: PAGODABOX
 
 web1: 
   name: wp-web 
