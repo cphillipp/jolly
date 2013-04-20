@@ -151,8 +151,8 @@ width: 684px;
 float: right;
 min-height:910px;
 }
-.left 																{width:50%; float:left;}
-.right 																{width:50%; float:right;}
+.left 																{width:50%; min-height:100px; float:left;}
+.right 																{width:50%; min-height:100px; float:right;}
 .menu-left-navigation-container 									{padding-bottom:11px; background:url('../img/menu-bottom.png') 0% 100% no-repeat;}
 #menu-left-navigation.menu 											{margin:0; padding:30px; width:181px; list-style:none; background:url('../img/menu.png') no-repeat;}
 #menu-left-navigation.menu li 										{line-height:22px; list-style:none;}
