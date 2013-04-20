@@ -74,8 +74,9 @@ header#branding 		{margin:0 0 0 -19px; width:1117px; position:relative; height:1
 #branding hgroup 		{margin:0; padding:0; width:304px; height:100px; position:absolute; top:20px; left:20px;}
 #header-image 			{display:inline; width:304px; height:100px; position:absolute; top:10px; left:12px;}
 .address				{margin:0; padding:0; position:absolute; bottom:20px; left:150px; color:#d8d6cc; font-size:14px; text-align:center; font-family:'Comic Sans MS', cursive;}
-.subnav 				{position:absolute; bottom:20px; right:10px;}
-.nav-pills>li>a {
+.address:hover 			{color:#d8d6cc; text-decoration:none;}
+#branding .subnav 		{position:absolute; bottom:20px; right:10px;}
+#branding .subnav .nav-pills>li>a {
 padding:0 10px;
 margin:0;
 -webkit-border-radius: 0px;
@@ -86,11 +87,11 @@ color:#FFF;
 font-size:19px;
 letter-spacing:0.1em;
 }
-.nav-pills>.active>a, .nav-pills>.active>a:hover {
+#branding .subnav .nav-pills>.active>a, .nav-pills>.active>a:hover {
 background-color:transparent;
 color:rgb(0, 173, 183);
 }
-.nav>li>a:hover {
+#branding .subnav .nav>li>a:hover {
 background-color:transparent;
 color:rgb(0, 173, 183);
 }
