@@ -96,7 +96,7 @@ border-radius: 0px;
 font-family:'lobster_1.4regular', 'Comic Sans MS', cursive;
 color:#FFF;
 font-size:19px;
-letter-spacing:0.1em;
+letter-spacing:1px;
 }
 #branding .subnav .nav-pills>.active>a, .nav-pills>.active>a:hover {
 background-color:transparent;
@@ -126,7 +126,7 @@ border-radius: 0px;
 font-family:'Comic Sans MS', cursive;;
 color:#CFC1A1;
 font-size:14px;
-letter-spacing:0.1em;
+letter-spacing:1px;
 }
 #page-footer .subnav .nav-pills>.active>a, .nav-pills>.active>a:hover {
 background-color:transparent;
