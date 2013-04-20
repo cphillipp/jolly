@@ -146,6 +146,7 @@ min-height:910px;
 #menu-left-navigation.menu li.active a 					{color:rgb(0, 173, 183);}
 #menu-left-navigation.menu li:hover ul					{display:block;}
 #menu-left-navigation.menu li.active ul li ul 			{display:none;}
+#menu-left-navigation.menu li.active ul li a 			{color:#FFF;}
 #menu-left-navigation.menu li:hover ul li ul 			{display:none;}
 #menu-left-navigation.menu li.active ul li.active ul 	{display:block;}
 #menu-left-navigation.menu li:hover ul li:hover ul 		{display:block;}
