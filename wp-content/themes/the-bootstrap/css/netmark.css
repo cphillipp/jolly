@@ -90,6 +90,7 @@ header#branding 		{margin:0 0 0 -19px; width:1117px; position:relative; height:1
 #branding .subnav .nav-pills>li>a 		{padding:0 10px;margin:0;-webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;font-family:'lobster_1.4regular', 'Comic Sans MS', cursive;color:#FFF;font-size:19px;letter-spacing:1px;}
 #branding .subnav .nav-pills>.active>a, .nav-pills>.active>a:hover {background-color:transparent;color:rgb(0, 173, 183);}
 #branding .subnav .nav>li>a:hover 		{background-color:transparent;color:rgb(0, 173, 183);}
+#branding .subnav .nav>li.current-page-ancestor>a {color:rgb(0, 173, 183);;}
 #page-footer.well 						{margin:0 0 0 -19px; padding:0; width:1117px; position:relative; height:146px; background-color: transparent; background:url('../img/footer.png') no-repeat;min-height: 146px;border: 0px solid #e3e3e3;-webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;-webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0.05);-moz-box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0.05);box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0.05);}
 #page-footer .subnav 					{position:absolute; top:75px; left:50px;}
 #page-footer .subnav .nav-pills>li>a 	{
