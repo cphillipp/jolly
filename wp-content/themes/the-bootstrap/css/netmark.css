@@ -142,7 +142,7 @@ min-height:910px;
 #menu-left-navigation.menu li 										{line-height:22px; list-style:none;}
 #menu-left-navigation.menu li a 									{color:#FFF; font-size:18px; font-family:'lobster_1.4regular', 'Comic Sans MS', cursive; letter-spacing:1px; display:block;}
 #menu-left-navigation.menu li a:hover 								{color:#00adb7; text-decoration:none;}
-#menu-left-navigation.menu li ul 									{list-style:none; display:none;}
+#menu-left-navigation.menu li ul 									{margin:0; list-style:none; display:none;}
 #menu-left-navigation.menu li.active ul								{display:block;}
 #menu-left-navigation.menu li.active a 								{color:#00adb7;}
 #menu-left-navigation.menu li:hover ul								{display:block;}
@@ -156,11 +156,11 @@ min-height:910px;
 #menu-left-navigation.menu li.active ul li.active ul li.active a 	{color:#00adb7;}
 #menu-left-navigation.menu li.active ul li.active a 				{color:#00adb7;}
 #menu-left-navigation.menu li:hover ul li:hover ul 					{display:block;}
-#menu-left-navigation.menu li ul li 								{line-height:15px; list-style:none;}
-#menu-left-navigation.menu li ul li a 								{font-size:14px; font-family:'Comic Sans MS', cursive; letter-spacing:0px;}
-#menu-left-navigation.menu li ul li ul 								{padding:10px 0;}
-#menu-left-navigation.menu li ul li ul li 							{line-height:15px;}
-#menu-left-navigation.menu li ul li ul li a 						{}
+#menu-left-navigation.menu li ul li 								{line-height:18px; list-style:none;}
+#menu-left-navigation.menu li ul li a 								{padding:0 0 0 20px; font-size:14px; font-family:'Comic Sans MS', cursive; letter-spacing:0px;}
+#menu-left-navigation.menu li ul li ul 								{margin:0; padding:5px 0;}
+#menu-left-navigation.menu li ul li ul li 							{line-height:18px;}
+#menu-left-navigation.menu li ul li ul li a 						{padding:0 0 0 20px;}
 
 
 
