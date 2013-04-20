@@ -11,6 +11,7 @@
 }
 body 		{font-family:'Comic Sans MS', cursive;}
 body p 		{margin:0 0 20px; font-size:16px; color:#888888; line-height:1.5;}
+a 			{color:#EB4498;}
 #page 		{margin:0; padding:0; background:url('../img/body.png') top center repeat-y;}
 @media (min-width: 1200px)
 .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
