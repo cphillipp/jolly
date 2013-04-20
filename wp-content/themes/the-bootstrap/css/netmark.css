@@ -72,8 +72,8 @@ margin: 0 0px 0 0;
 .top-background 		{margin:0; padding:0; background:url('../img/topBG.png') top center no-repeat;}
 header#branding 		{margin:0 0 0 -19px; width:1117px; position:relative; height:139px; background:url('../img/header.png') no-repeat;}
 #branding hgroup 		{margin:0; padding:0; width:304px; height:100px; position:absolute; top:20px; left:20px;}
-#header-image 			{display:inline; width:304px; height:100px; position:absolute; top:10px; left:20px;}
-.address				{margin:0; padding:0; position:absolute; top:66px; left:162px; color:#d8d6cc; font-size:16px; text-align:center; font-family:'Comic Sans MS', cursive;}
+#header-image 			{display:inline; width:304px; height:100px; position:absolute; top:10px; left:12px;}
+.address				{margin:0; padding:0; position:absolute; bottom:20px; left:150px; color:#d8d6cc; font-size:14px; text-align:center; font-family:'Comic Sans MS', cursive;}
 .subnav 				{position:absolute; bottom:20px; right:10px;}
 .nav-pills>li>a {
 padding:0 10px;
