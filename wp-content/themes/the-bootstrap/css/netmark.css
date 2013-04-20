@@ -179,6 +179,7 @@ background:#00adb7;
 #menu-left-navigation.menu li.active ul li.active ul li.active a 	{color:#00adb7;}
 #menu-left-navigation.menu li.active ul li.active a 				{color:#00adb7;}
 #menu-left-navigation.menu li:hover ul li:hover ul 					{display:none;}
+#menu-left-navigation.menu li.active:hover ul li.active:hover ul 	{display:none;}
 #menu-left-navigation.menu li ul li 								{line-height:18px; list-style:none;}
 #menu-left-navigation.menu li ul li a 								{padding:0 0 0 20px; font-size:14px; font-family:'Comic Sans MS', cursive; letter-spacing:0px;}
 #menu-left-navigation.menu li ul li ul 								{margin:0; padding:5px 0;}
