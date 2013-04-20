@@ -40,6 +40,10 @@ margin-left: 0;
 .span12 {
 width: 1117px;
 }
+#primary.span12 {
+margin:0 auto;
+width: 1000px;
+}
 [class*="span"] {
 margin-left: 0px;
 }
