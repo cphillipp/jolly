@@ -80,9 +80,12 @@ header#branding 		{margin:0 0 0 -19px; width:1117px; position:relative; height:1
 .phone					{margin:0; padding:0; position:absolute; top:10px; left:595px; color:#df6197; font-size:13px; line-height:18px; font-family:'Comic Sans MS', cursive;}
 .phone span 			{color:#FFF; display:inline-block; padding:0 10px 0 0;}
 .social 				{position:absolute; top:10px; right:20px;}
-.social .facebook 		{margin:0 4px; width:32px; height:32px; display:inline-block; background:url('../img/facebook.png') no-repeat;}
-.social .twitter 		{margin:0 4px; width:32px; height:32px; display:inline-block; background:url('../img/twitter.png') no-repeat;}
-.social .instagram 		{margin:0 4px; width:32px; height:32px; display:inline-block; background:url('../img/instagram.png') no-repeat;}
+.social .facebook 		{margin:0 4px; width:32px; height:32px; display:inline-block; background:url('../img/facebook.png') no-repeat; filter: alpha(opacity=50); -moz-opacity:0.5; -khtml-opacity: 0.5; opacity: 0.5;}
+.social .twitter 		{margin:0 4px; width:32px; height:32px; display:inline-block; background:url('../img/twitter.png') no-repeat; filter: alpha(opacity=50); -moz-opacity:0.5; -khtml-opacity: 0.5; opacity: 0.5;}
+.social .instagram 		{margin:0 4px; width:32px; height:32px; display:inline-block; background:url('../img/instagram.png') no-repeat; filter: alpha(opacity=50); -moz-opacity:0.5; -khtml-opacity: 0.5; opacity: 0.5;}
+.social .facebook:hover {filter: alpha(opacity=100); -moz-opacity:1; -khtml-opacity: 1; opacity: 1;}
+.social .twitter:hover 	{filter: alpha(opacity=100); -moz-opacity:1; -khtml-opacity: 1; opacity: 1;}
+.social .instagram:hover{filter: alpha(opacity=100); -moz-opacity:1; -khtml-opacity: 1; opacity: 1;}
 #branding .subnav 		{position:absolute; bottom:20px; right:10px;}
 #branding .subnav .nav-pills>li>a {
 padding:0 10px;
