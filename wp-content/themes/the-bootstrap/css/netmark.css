@@ -131,11 +131,7 @@ box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0.05);
 div#primary.span8 {
 margin:0 36px 0 0;
 width: 684px;
-}
-@media (max-width: 767px)
-.sidebar-content #primary, .sidebar-content #attachment-comment {
 float: right;
-margin:0 36px 0 0;
 }
 #menu-left-navigation.menu 			{list-style:none;}
 #menu-left-navigation.menu li 		{list-style:none;}
