@@ -75,8 +75,9 @@ header#branding 		{margin:0 0 0 -19px; width:1117px; position:relative; height:1
 #header-image 			{display:inline; width:304px; height:100px; position:absolute; top:10px; left:12px;}
 .address				{margin:0; padding:0; position:absolute; bottom:35px; left:150px; color:#d8d6cc; font-size:14px; text-align:center; font-family:'Comic Sans MS', cursive;}
 .address:hover 			{color:#d8d6cc; text-decoration:none;}
-.hours					{margin:0; padding:0; position:absolute; top:10px; left:350px; color:#FFF; font-size:14px; font-family:'Comic Sans MS', cursive;}
-.hours span 			{color:#FFF; display:inline-block; width:80px; float:left;}
+.hours					{margin:0; padding:0; width:280px; position:absolute; top:10px; left:350px; color:#df6197; font-size:14px; font-family:'Comic Sans MS', cursive;}
+.hours span 			{color:#FFF; display:inline-block; width:100px; height:60px; float:left;}
+.phone					{margin:0; padding:0; position:absolute; top:10px; left:450px; color:#df6197; font-size:14px; font-family:'Comic Sans MS', cursive;}
 #branding .subnav 		{position:absolute; bottom:20px; right:10px;}
 #branding .subnav .nav-pills>li>a {
 padding:0 10px;

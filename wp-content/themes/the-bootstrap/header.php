@@ -56,7 +56,8 @@
 					<a href="/contact-us/" class="address">270 Market Square<br />Lake Forest, IL 60045</a>
 					<?php endif; // if ( get_header_image() ) ?>
 
-					<div class="hours"><span>Store Hours:</span>Mon - Thurs 10-10<br />Fri - Sat 8-10<br />Sun 11-9<br />(847) 861-2000 EXT 1</div>
+					<div class="hours"><span>Store Hours:</span>Mon - Thurs 10-10<br />Fri - Sat 8-10<br />Sun 11-9</div>
+					<div class="phone">(847) 861-2000 EXT 1</div>
 
 					<nav id="access" role="navigation">
 						<h3 class="assistive-text"><?php _e( 'Main menu', 'the-bootstrap' ); ?></h3>
