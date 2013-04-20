@@ -135,5 +135,6 @@ float: right;
 }
 #menu-left-navigation.menu 			{list-style:none;}
 #menu-left-navigation.menu li 		{list-style:none;}
-#menu-left-navigation.menu li ul 	{list-style:none;}
+#menu-left-navigation.menu li ul 	{list-style:none; display:none;}
+#menu-left-navigation.menu li.active{display:block;}
 #menu-left-navigation.menu li ul li {list-style:none;}
