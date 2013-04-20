@@ -113,7 +113,8 @@ background-color:transparent;
 color:#FFF;
 }
 #post-21 .page-header 		{display:none;}
-.page-header 				{color:#603600; font-size:45px !important; font-family:'lobster_1.4regular', 'Comic Sans MS', cursive; letter-spacing:1px;}
+.page-header 				{color:#603600; font-family:'lobster_1.4regular', 'Comic Sans MS', cursive; letter-spacing:1px;}
+.page-header h1 			{font-size:45px;}
 section#secondary.widget-area.span4 {
 margin:0 0 0 36px;
 width: 300px;
