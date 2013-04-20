@@ -152,7 +152,7 @@ float: right;
 min-height:910px;
 }
 .gform_wrapper .gform_footer input.button, .gform_wrapper .gform_footer input[type=submit] {
-background:#EB4498; color:#FFF;
+background:#EB4498; color:#FFF; border:none; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;
 }
 .gform_wrapper .gform_footer input[type=submit]:hover {
 background:#00adb7;
