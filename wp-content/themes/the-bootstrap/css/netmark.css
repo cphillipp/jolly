@@ -12,21 +12,21 @@
 #page 		{margin:0; padding:0; background:url('../img/body.png') top center repeat-y;}
 @media (min-width: 1200px)
 .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
-width: 1117px;
+width: 1080px;
 padding: 0;
 }
 .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
-width: 1117px;
+width: 1080px;
 padding: 0;
 }
 @media (max-width: 979px) and (min-width: 768px)
 .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
-width: 1117px;
+width: 1080px;
 padding: 0;
 }
 @media (max-width: 767px)
 .container {
-width: 1117px;
+width: 1080px;
 padding: 0;
 }
 body>.container {
@@ -35,14 +35,14 @@ padding: 0;
 }
 @media (min-width: 1200px)
 .span12 {
-width: 1117px;
+width: 1080px;
 }
 @media (min-width: 1200px)
 [class*="span"] {
 margin-left: 0;
 }
 .span12 {
-width: 1117px;
+width: 1080px;
 }
 #primary.span12 {
 margin:0 auto !important;
@@ -55,7 +55,7 @@ float:none;
 }
 @media (max-width: 979px) and (min-width: 768px)
 .span12 {
-width: 1117px;
+width: 1080px;
 }
 @media (max-width: 979px) and (min-width: 768px)
 [class*="span"] {
@@ -70,7 +70,7 @@ margin-right: 0px;
 margin: 0 0px 0 0;
 }
 .top-background 		{margin:0; padding:0; background:url('../img/topBG.png') top center no-repeat;}
-header#branding 		{position:relative; height:139px; background:url('../img/header.png') no-repeat;}
+header#branding 		{margin:0 0 0 -20px; width:1117px; position:relative; height:139px; background:url('../img/header.png') no-repeat;}
 .nav-pills>li>a {
 padding:0 10px;
 margin:0;
