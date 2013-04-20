@@ -151,6 +151,12 @@ width: 684px;
 float: right;
 min-height:910px;
 }
+.gform_wrapper .gform_footer input.button, .gform_wrapper .gform_footer input[type=submit] {
+background:#EB4498; color:#FFF;
+}
+.gform_wrapper .gform_footer input[type=submit]:hover {
+background:#00adb7;
+}
 .left 																{width:50%; min-height:100px; float:left;}
 .right 																{width:50%; min-height:100px; float:right;}
 .menu-left-navigation-container 									{padding-bottom:11px; background:url('../img/menu-bottom.png') 0% 100% no-repeat;}
