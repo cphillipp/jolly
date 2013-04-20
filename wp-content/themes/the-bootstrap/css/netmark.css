@@ -76,7 +76,14 @@ color:#FFF;
 font-size:19px;
 letter-spacing:0.1em;
 }
-
+.nav-pills>.active>a, .nav-pills>.active>a:hover {
+background-color:transparent;
+color:rgb(0, 173, 183);
+}
+.nav>li>a:hover {
+background-color:transparent;
+color:#rgb(0, 173, 183);
+}
 
 
 
