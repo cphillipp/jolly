@@ -133,7 +133,7 @@ margin:0 36px 0 0;
 width: 684px;
 float: right;
 }
-.menu-left-navigation-container 		{background:url('../img/menu-bottom.png') 0% 100% no-repeat;}
+.menu-left-navigation-container 		{padding-bottom:11px; background:url('../img/menu-bottom.png') 0% 100% no-repeat;}
 #menu-left-navigation.menu 				{margin:0; padding:30px; width:181px; list-style:none; background:url('../img/menu.png') no-repeat;}
 #menu-left-navigation.menu li 			{list-style:none;}
 #menu-left-navigation.menu li ul 		{list-style:none; display:none;}
