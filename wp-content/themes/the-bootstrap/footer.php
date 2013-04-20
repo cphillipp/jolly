@@ -34,6 +34,7 @@
 		</div><!-- .container -->
 	<!-- <?php printf( __( '%d queries. %s seconds.', 'the-bootstrap' ), get_num_queries(), timer_stop(0, 3) ); ?> -->
 	<?php wp_footer(); ?>
+	</div><!-- .top-background -->
 	</body>
 </html>
 <?php

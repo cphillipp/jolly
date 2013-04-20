@@ -25,6 +25,7 @@
 	</head>
 	
 	<body <?php body_class(); ?>>
+		<div class="top-background">
 		<div class="container">
 			<div id="page" class="hfeed row">
 				<?php tha_header_before(); ?>
