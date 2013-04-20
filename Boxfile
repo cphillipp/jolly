@@ -6,6 +6,7 @@ web1:
   name: wp-web 
   shared_writable_dirs:
     - wp-content/uploads/
+    - wp-content/plugins/gallery-plugin/template/
   php_extensions:
     - mysql
     - apc
