@@ -75,9 +75,9 @@ header#branding 		{margin:0 0 0 -19px; width:1117px; position:relative; height:1
 #header-image 			{display:inline; width:304px; height:100px; position:absolute; top:10px; left:12px;}
 .address				{margin:0; padding:0; position:absolute; bottom:35px; left:150px; color:#d8d6cc; font-size:14px; text-align:center; font-family:'Comic Sans MS', cursive;}
 .address:hover 			{color:#d8d6cc; text-decoration:none;}
-.hours					{margin:0; padding:0; width:280px; position:absolute; top:10px; left:350px; color:#df6197; font-size:14px; font-family:'Comic Sans MS', cursive;}
+.hours					{margin:0; padding:0; width:280px; position:absolute; top:10px; left:350px; color:#df6197; font-size:13px; line-height:18px; font-family:'Comic Sans MS', cursive;}
 .hours span 			{color:#FFF; display:inline-block; width:100px; height:60px; float:left;}
-.phone					{margin:0; padding:0; position:absolute; top:10px; left:595px; color:#df6197; font-size:14px; font-family:'Comic Sans MS', cursive;}
+.phone					{margin:0; padding:0; position:absolute; top:10px; left:595px; color:#df6197; font-size:13px; line-height:18px; font-family:'Comic Sans MS', cursive;}
 .phone span 			{color:#FFF; display:inline-block; padding:0 10px 0 0;}
 .social 				{position:absolute; top:10px; right:10px;}
 .social .facebook 		{margin:0 2px; width:32px; height:32px; display:inline-block; background:url('../img/facebook.png') no-repeat;}
