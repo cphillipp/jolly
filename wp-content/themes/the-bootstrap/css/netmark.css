@@ -43,6 +43,7 @@ width: 1117px;
 #primary.span12 {
 margin:0 auto !important;
 width: 1000px;
+float:none !important;
 }
 [class*="span"] {
 margin-left: 0px;
@@ -65,12 +66,15 @@ margin: 0 0px 0 0;
 .top-background 		{margin:0; padding:0; background:url('../img/topBG.png') top center no-repeat;}
 header#branding 		{position:relative; height:139px; background:url('../img/header.png') no-repeat;}
 .nav-pills>li>a {
-padding:0;
+padding:0 10px;
 margin:0;
 -webkit-border-radius: 0px;
 -moz-border-radius: 0px;
 border-radius: 0px;
 font-family:'lobster_1.4regular', 'Comic Sans MS', cursive;
+color:#FFF;
+font-size:19px;
+letter-spacing:0.1em;
 }
 
 
