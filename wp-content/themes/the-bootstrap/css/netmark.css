@@ -51,6 +51,7 @@ float:none !important;
 }
 [class*="span"] {
 margin-left: 0px;
+float:none;
 }
 @media (max-width: 979px) and (min-width: 768px)
 .span12 {
@@ -59,6 +60,7 @@ width: 1117px;
 @media (max-width: 979px) and (min-width: 768px)
 [class*="span"] {
 margin-left: 0px;
+float:none;
 }
 @media (min-width: 1200px)
 .sidebar-content #primary, .sidebar-content #attachment-comment {
