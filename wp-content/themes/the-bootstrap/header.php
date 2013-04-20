@@ -58,7 +58,7 @@
 
 					<div class="hours"><span>Store Hours:</span>Mon - Thurs 10-10<br />Fri - Sat 8-10<br />Sun 11-9</div>
 					<div class="phone"><span>Phone:</span>(847) 861-2000 EXT 1</div>
-					<div class="social"><a href="#" class="facebook"></a><a href="#" class="twitter"></a><<a href="#" class="instagram"></a>/div>
+					<div class="social"><a href="#" class="facebook"></a><a href="#" class="twitter"></a><a href="#" class="instagram"></a></div>
 
 					<nav id="access" role="navigation">
 						<h3 class="assistive-text"><?php _e( 'Main menu', 'the-bootstrap' ); ?></h3>
