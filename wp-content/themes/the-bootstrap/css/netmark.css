@@ -132,3 +132,8 @@ div#primary.span8 {
 margin:0 36px 0 0;
 width: 684px;
 }
+@media (max-width: 767px)
+.sidebar-content #primary, .sidebar-content #attachment-comment {
+float: right;
+margin:0 36px 0 0;
+}
