@@ -77,7 +77,12 @@ header#branding 		{margin:0 0 0 -19px; width:1117px; position:relative; height:1
 .address:hover 			{color:#d8d6cc; text-decoration:none;}
 .hours					{margin:0; padding:0; width:280px; position:absolute; top:10px; left:350px; color:#df6197; font-size:14px; font-family:'Comic Sans MS', cursive;}
 .hours span 			{color:#FFF; display:inline-block; width:100px; height:60px; float:left;}
-.phone					{margin:0; padding:0; position:absolute; top:10px; left:450px; color:#df6197; font-size:14px; font-family:'Comic Sans MS', cursive;}
+.phone					{margin:0; padding:0; position:absolute; top:10px; left:595px; color:#df6197; font-size:14px; font-family:'Comic Sans MS', cursive;}
+.phone span 			{color:#FFF; display:inline-block; padding:0 10px 0 0;}
+.social 				{position:absolute; top:10px; right:10px;}
+.social .facebook 		{margin:0 2px; width:42px; height:42px; display:inline-block; background:url('../img/facebook.png') no-repeat;}
+.social .twitter 		{margin:0 2px; width:42px; height:42px; display:inline-block; background:url('../img/twitter.png') no-repeat;}
+.social .instagram 		{margin:0 2px; width:42px; height:42px; display:inline-block; background:url('../img/instagram.png') no-repeat;}
 #branding .subnav 		{position:absolute; bottom:20px; right:10px;}
 #branding .subnav .nav-pills>li>a {
 padding:0 10px;
