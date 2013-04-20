@@ -24,7 +24,7 @@ width: 1117px;
 @media (max-width: 767px)
 .container {
 width: 1117px;
-padding: 0;
+padding: 0 !important;
 }
 body>.container {
 margin: 0px auto;
@@ -82,7 +82,7 @@ color:rgb(0, 173, 183);
 }
 .nav>li>a:hover {
 background-color:transparent;
-color:#rgb(0, 173, 183);
+color:rgb(0, 173, 183);
 }
 
 
