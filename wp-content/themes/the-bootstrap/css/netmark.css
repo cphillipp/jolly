@@ -158,6 +158,9 @@ background:#EB4498; color:#FFF; border:none; -webkit-border-radius:3px; -moz-bor
 .gform_wrapper .gform_footer input[type=submit]:hover {
 background:#00adb7;
 }
+.thumbnails>li {
+margin-left: 20px;
+}
 .left 																{width:50%; min-height:100px; float:left;}
 .right 																{width:50%; min-height:100px; float:right;}
 .menu-left-navigation-container 									{padding-bottom:11px; background:url('../img/menu-bottom.png') 0% 100% no-repeat;}
