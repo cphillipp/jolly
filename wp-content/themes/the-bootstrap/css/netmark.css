@@ -158,6 +158,8 @@ background:#EB4498; color:#FFF; border:none; -webkit-border-radius:3px; -moz-bor
 .gform_wrapper .gform_footer input[type=submit]:hover {
 background:#00adb7;
 }
+.gform_wrapper h3.gform_title 				{color:#00adb7; font-size:18px; font-family:'lobster_1.4regular', 'Comic Sans MS', cursive; letter-spacing:1px;}
+.gform_wrapper .top_label .gfield_label 	{color:#EB4498; font-size:16px;}
 .thumbnails>li {
 margin-left: 20px;
 }
