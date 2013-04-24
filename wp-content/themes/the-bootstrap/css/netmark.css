@@ -87,7 +87,7 @@ header#branding 														{margin:0 0 0 -19px; width:1117px; position:relati
 .social .twitter:hover 													{filter: alpha(opacity=100); -moz-opacity:1; -khtml-opacity: 1; opacity: 1;}
 .social .instagram:hover												{filter: alpha(opacity=100); -moz-opacity:1; -khtml-opacity: 1; opacity: 1;}
 #branding .subnav 														{position:absolute; bottom:20px; right:10px;}
-#branding .subnav .nav-pills>li>a 										{padding:0 10px;margin:0;-webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;font-family:'lobster_1.4regular', 'Comic Sans MS', cursive; color:#FFF;font-size:19px;letter-spacing:1px;}
+#branding .subnav .nav-pills>li>a 										{padding:0 10px;margin:0; background:transparent; -webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;font-family:'lobster_1.4regular', 'Comic Sans MS', cursive; color:#FFF;font-size:19px;letter-spacing:1px;}
 #branding .subnav .nav-pills>.active>a, .nav-pills>.active>a:hover 		{background-color:transparent;color:#00adb7;}
 #branding .subnav .nav>li>a:hover 										{background-color:transparent;color:#00adb7;}
 #branding .subnav .nav>li.current-page-ancestor>a 						{color:#00adb7;}
