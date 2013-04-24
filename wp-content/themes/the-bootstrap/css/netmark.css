@@ -147,4 +147,4 @@ div#primary.span8 														{margin:0 36px 0 0; padding:0 20px 0 0; width: 6
 .dropdown-submenu:hover>a 												{background:transparent; color:#00adb7;}
 .dropdown-menu .active>a, 
 .dropdown-menu .active>a:hover 											{background:transparent; color:#00adb7;}
-.dropdown-menu:after 													{content:""; width:241px; height:11px; background:url('../img/menu-bottom.png') 0% 100% no-repeat; position:absolute; bottom:-11px; left:0;}
+.dropdown-menu:before 													{content:""; width:241px; height:11px; background:url('../img/menu-bottom.png') 0% 100% no-repeat; position:absolute; bottom:-10px; left:0;}
