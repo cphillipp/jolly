@@ -141,7 +141,7 @@ div#primary.span8 														{margin:0 36px 0 0; padding:0 20px 0 0; width: 6
 #menu-main-navigation-1.menu li ul li ul li a 							{padding:0 0 0 40px;}
 .nav .dropdown-toggle .caret 											{display:none;}
 .dropdown-menu:before 													{content:""; width:241px; height:11px; background:url('../img/menu-bottom.png') 0% 100% no-repeat; position:absolute; bottom:-10px; left:0;}
-.dropdown-menu 															{min-width:241px; background:url('../img/menu.png') no-repeat;}
+.dropdown-menu 															{top:25px; min-width:241px; background:url('../img/menu.png') no-repeat;}
 .dropdown-menu li>a 													{color:#FFF;}
 .dropdown-menu li>a:hover, 
 .dropdown-menu li>a:focus, 
