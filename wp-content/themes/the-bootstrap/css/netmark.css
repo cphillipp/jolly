@@ -145,7 +145,7 @@ div#primary.span8 														{margin:0 36px 0 0; padding:0 20px 0 0; width: 6
 .left 																	{width:50%; min-height:100px; float:left;}
 .right 																	{width:50%; min-height:100px; float:right;}
 .menu-main-navigation-container 										{padding-bottom:11px; background:url('../img/menu-bottom.png') 0% 100% no-repeat;}
-#menu-main-navigation-1.menu 											{margin:0; padding:30px 0 30px 30px; width:201px; list-style:none; background:url('../img/menu.png') no-repeat;}
+#menu-main-navigation-1.menu 											{margin:0; padding:30px 0 30px 30px; width:211px; list-style:none; background:url('../img/menu.png') no-repeat;}
 #menu-main-navigation-1.menu li 										{line-height:22px; list-style:none;}
 #menu-main-navigation-1.menu li a 										{color:#FFF; font-size:18px; font-family:'lobster_1.4regular', 'Comic Sans MS', cursive; letter-spacing:1px; display:block;}
 #menu-main-navigation-1.menu li a:hover 								{color:#00adb7; text-decoration:none;}
