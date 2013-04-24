@@ -158,6 +158,6 @@ div#primary.span8 														{margin:0 36px 0 0; padding:0 20px 0 0; width: 6
 #menu-main-navigation-1.menu li ul li ul 								{margin:0; padding:5px 0;}
 #menu-main-navigation-1.menu li ul li ul li 							{line-height:18px; list}
 #menu-main-navigation-1.menu li ul li ul li a 							{padding:0 0 0 40px;}
-.nav .active .dropdown-toggle .caret 									{display:none;}
+.nav .dropdown-toggle .caret 											{display:none;}
 
 
