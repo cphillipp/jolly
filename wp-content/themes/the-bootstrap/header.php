@@ -53,7 +53,7 @@
 					<a id="header-image" href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 						<img src="<?php header_image(); ?>" width="<?php echo get_custom_header()->width; ?>" height="<?php echo get_custom_header()->height; ?>" alt="" />
 					</a>
-					<a href="/contact-us/" class="address">270 Market Square<br />Lake Forest, IL 60045</a>
+					<a href="/contact-us/email-us/" class="address">270 Market Square<br />Lake Forest, IL 60045</a>
 					<?php endif; // if ( get_header_image() ) ?>
 
 					<div class="hours"><span>Store Hours:</span>Mon - Thurs 10-10<br />Fri - Sat 8-10<br />Sun 11-9</div>
